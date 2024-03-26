@@ -10,6 +10,8 @@ nvm use 18
 npm install
 # or
 npm run dev
+# testing
+npm test
 ```
 
 Open [http://localhost:8000/campaign](http://localhost:8000/campaign) with your browser to see the result.
@@ -33,4 +35,5 @@ Open [http://localhost:8000/campaign](http://localhost:8000/campaign) with your 
 - Target bar, If donation goal achieved, the bar colour should be pink otherwise the colour is grey
 - SEO Friendly
 - Rest API using Redux
+- Testing using Jest
 ```
