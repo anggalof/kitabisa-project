@@ -5,6 +5,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+#Node 18
+#Next 14
+#React 18
+#Typescript 5
+
+#Running
 nvm use 18
 # or
 npm install
@@ -24,6 +30,7 @@ Open [http://localhost:8000/campaign](http://localhost:8000/campaign) with your 
 - Tailwind
 - Axios
 - Redux
+- Jest
 ```
 
 ```bash
