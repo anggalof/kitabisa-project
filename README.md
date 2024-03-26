@@ -35,6 +35,7 @@ Open [http://localhost:8000/campaign](http://localhost:8000/campaign) with your 
 
 ```bash
 # Page Campaign in Kitabisa Project
+- Responsive Device Desktop, Tablet & Mobile
 - Sort by ASC:
 * Donation Goal from Field donation_target
 * Days Left from Field expired
